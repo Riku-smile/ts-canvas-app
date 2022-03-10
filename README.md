@@ -1,5 +1,8 @@
 # ts-canvas-app
 
+## 推奨環境
+横 1400px * 縦 800px
+
 ## Netlify
 https://boring-lovelace-aeedb8.netlify.app/
 
